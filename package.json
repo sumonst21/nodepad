@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "express": "2.5.1",
-    "connect": "1.8.1",
+    "connect": "3.0.0",
     "mongoose": "2.3.12",
     "stylus": "0.18.0",
     "jade": "0.18.0",
